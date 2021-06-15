@@ -10,7 +10,7 @@ Welcome to my Github Page, hope you find the projects and components I've been w
 
 📫 Best to reach out through [LinkedIn](https://www.linkedin.com/in/nandor-verba/)
 
-- 🌱 Check out my [Github.io](https://www.linkedin.com/in/nandor-verba/) personal page [probably out of date, but was fun to make]
+- 🌱 Check out my [Github.io](https://nandor1992.github.io/) personal page [probably out of date, but was fun to make]
 
 
 ## Introduction
