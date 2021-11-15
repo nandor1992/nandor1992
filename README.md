@@ -6,7 +6,6 @@ Welcome to my Github Page, hope you find the projects and components I've been w
 🥼[Google Scholar](https://scholar.google.co.uk/citations?user=Z1ym6jYAAAAJ&hl=en) 
 👔[LinkedIn](https://www.linkedin.com/in/nandor-verba/) 
 🔗[Research Gate](https://www.researchgate.net/profile/Nandor-Verba-2)
-🎓[University Portal](https://pureportal.coventry.ac.uk/en/persons/nandor-verba-2)
 
 📫 Best to reach out through [LinkedIn](https://www.linkedin.com/in/nandor-verba/)
 
